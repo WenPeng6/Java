@@ -1,0 +1,6 @@
+开发工具
+MyEclipse
+Navicat
+
+运行环境
+java jre1.6
